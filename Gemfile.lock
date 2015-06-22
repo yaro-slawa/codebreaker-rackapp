@@ -1,0 +1,21 @@
+GIT
+  remote: git://github.com/yaro-slawa/codebreaker
+  revision: 4129f3f3668a5b091f213b7091970908e0386ea0
+  specs:
+    codebreaker (0.1.0)
+
+GEM
+  remote: https://rubygems.org/
+  specs:
+    rack (1.6.4)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  bundler
+  codebreaker!
+  rack
+
+BUNDLED WITH
+   1.10.4
